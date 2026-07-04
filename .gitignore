@@ -22,10 +22,10 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
-backend\.env
-frontend\node_modules
-frontend\.env
-backend\target\maven-archiver
-backend\target\maven-status\maven-compiler-plugin
-backend\target\nexusai-backend-1.0.0.jar.original
-backend\target\nexusai-backend-1.0.0.jar
+backend/.env
+frontend/node_modules
+frontend/.env
+backend/target/maven-archiver
+backend/target/maven-status/maven-compiler-plugin
+backend/target/nexusai-backend-1.0.0.jar.original
+backend/target/nexusai-backend-1.0.0.jar
